@@ -1,0 +1,1 @@
+# LitecoinPool_Alert
